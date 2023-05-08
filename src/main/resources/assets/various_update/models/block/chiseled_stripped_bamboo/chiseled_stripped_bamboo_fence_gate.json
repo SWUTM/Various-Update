@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/template_fence_gate",
+  "textures": {
+    "texture": "various_update:block/chiseled_stripped_bamboo_block"
+  }
+}

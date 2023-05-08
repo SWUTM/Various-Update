@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/stairs",
+  "textures": {
+    "bottom": "various_update:block/stripped_bamboo_block",
+    "side": "various_update:block/stripped_bamboo_block",
+    "top": "various_update:block/stripped_bamboo_block"
+  }
+}

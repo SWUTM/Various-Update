@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/button_pressed",
+  "textures": {
+    "texture": "various_update:block/stripped_bamboo_block"
+  }
+}

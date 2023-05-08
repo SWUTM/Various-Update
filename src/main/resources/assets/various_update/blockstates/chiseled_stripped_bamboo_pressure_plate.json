@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "powered=false": {
+      "model": "various_update:block/chiseled_stripped_bamboo/chiseled_stripped_bamboo_pressure_plate"
+    },
+    "powered=true": {
+      "model": "various_update:block/chiseled_stripped_bamboo/chiseled_stripped_bamboo_pressure_plate_down"
+    }
+  }
+}

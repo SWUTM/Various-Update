@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "various_update:block/stripped_bamboo/stripped_bamboo" },
+    "facing=east": { "model": "various_update:block/stripped_bamboo/stripped_bamboo", "y": 90 },
+    "facing=south": { "model": "various_update:block/stripped_bamboo/stripped_bamboo", "y": 180 },
+    "facing=west": { "model": "various_update:block/stripped_bamboo/stripped_bamboo", "y": 270 }
+  }
+}

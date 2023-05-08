@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "various_update:block/chiseled_stripped_bamboo/chiseled_stripped_bamboo_slab"
+    },
+    "type=double": {
+      "model": "various_update:block/chiseled_stripped_bamboo/chiseled_stripped_bamboo_block"
+    },
+    "type=top": {
+      "model": "various_update:block/chiseled_stripped_bamboo/chiseled_stripped_bamboo_slab_top"
+    }
+  }
+}

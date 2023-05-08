@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "wooden_sign",
+  "key": {
+    "#": {
+      "item": "various_update:chiseled_stripped_bamboo_block"
+    },
+    "X": {
+      "item": "minecraft:bamboo"
+    }
+  },
+  "pattern": [
+    "###",
+    "###",
+    " X "
+  ],
+  "result": {
+    "count": 3,
+    "item": "various_update:chiseled_stripped_bamboo_sign"
+  }
+}

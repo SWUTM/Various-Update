@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "wooden_button",
+  "ingredients": [
+    {
+      "item": "various_update:chiseled_stripped_bamboo_block"
+    }
+  ],
+  "result": {
+    "item": "various_update:chiseled_stripped_bamboo_button"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  // Blocks
+
+  "block.various_update.bamboo_block": "Bamboo Block",
+  "block.various_update.stripped_bamboo_block": "Stripped Bamboo Block",
+  "block.various_update.stripped_bamboo": "Stripped Bamboo",
+  "block.various_update.chiseled_stripped_bamboo_block": "Chiseled Stripped Bamboo Block",
+
+
+  // Buttons
+
+  "block.various_update.stripped_bamboo_button": "Stripped Bamboo Button",
+  "block.various_update.bamboo_button": "Bamboo Button",
+  "block.various_update.chiseled_stripped_bamboo_button": "Chiseled Stripped Bamboo Button",
+
+  // Pressure Plate
+
+  "block.various_update.stripped_bamboo_pressure_plate": "Stripped Bamboo Pressure Plate",
+  "block.various_update.bamboo_pressure_plate": "Bamboo Pressure Plate",
+  "block.various_update.chiseled_stripped_bamboo_pressure_plate": "Chiseled Stripped Bamboo Pressure Plate",
+
+  // Stairs
+
+  "block.various_update.stripped_bamboo_stairs": "Stripped Bamboo Stairs",
+  "block.various_update.bamboo_stairs": "Bamboo Stairs",
+  "block.various_update.chiseled_stripped_bamboo_stairs": "Chiseled Stripped Bamboo Stairs",
+
+  // Slabs
+
+  "block.various_update.stripped_bamboo_slab": "Stripped Bamboo Slab",
+  "block.various_update.bamboo_slab": "Bamboo Slab",
+  "block.various_update.chiseled_stripped_bamboo_slab": "Chiseled Stripped Bamboo Slab",
+
+  // Fences
+
+  "block.various_update.stripped_bamboo_fence": "Stripped Bamboo Fence",
+  "block.various_update.bamboo_fence": "Bamboo Fence",
+  "block.various_update.chiseled_stripped_bamboo_fence": "Chiseled Stripped Bamboo Fence",
+
+  // Fence Gate
+
+  "block.various_update.stripped_bamboo_fence_gate": "Stripped Bamboo Fence Gate",
+  "block.various_update.bamboo_fence_gate": "Bamboo Fence Gate",
+  "block.various_update.chiseled_stripped_bamboo_fence_gate": "Chiseled Stripped Bamboo Fence Gate",
+
+  // Doors
+
+  "block.various_update.stripped_bamboo_door": "Stripped Bamboo Door",
+  "block.various_update.bamboo_door": "Bamboo Door",
+  "block.various_update.chiseled_stripped_bamboo_door": "Chiseled Stripped Bamboo Door",
+
+  // Trapdoors
+
+  "block.various_update.stripped_bamboo_trapdoor": "Stripped Bamboo Trapdoor",
+  "block.various_update.bamboo_trapdoor": "Bamboo Trapdoor",
+  "block.various_update.chiseled_stripped_bamboo_trapdoor": "Chiseled Stripped Bamboo Trapdoor",
+
+  //Signs
+
+  "block.various_update.bamboo_sign": "Bamboo Sign",
+  "block.various_update.stripped_bamboo_sign": "Stripped Bamboo Sign",
+  "block.various_update.chiseled_stripped_bamboo_sign": "Chiseled Stripped Bamboo Sign"
+
+
+}
